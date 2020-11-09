@@ -1,6 +1,7 @@
 .main-box{
     padding: 90px 15%;
     background: rgba(57, 47, 47, 0.8) ;
+     min-height: 100vh;
 }
 
 .container{
